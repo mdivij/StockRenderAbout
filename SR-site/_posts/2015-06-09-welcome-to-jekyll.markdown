@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to StockRender!"
 date:   2015-06-09 14:10:32
 categories: jekyll update
 ---
