@@ -1,0 +1,15 @@
+# Site settings
+title: StockRender
+email: info@stockrender.com
+description: > # this means to ignore newlines until "baseurl:"
+  Big data for small investors. We aggregate stock data and allow 3rd party applications to analyze our data. 
+  If you haven't used StockRender start today.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.stockrender.com/" # the base hostname & protocol for your site
+twitter_username: stockrender
+github_username:  StockRender182
+facebook: "https://www.facebook.com/stockrenderdata"
+youtube: "https://www.youtube.com/channel/UCMkfubQzWr-ec1KOw4Mngug"
+
+# Build settings
+markdown: kramdown
